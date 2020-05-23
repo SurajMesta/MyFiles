@@ -1,0 +1,137 @@
+6637856392 / 230491
+
+
+home create edit
+
+
+darshanmesta47@yahoo.com / DBossTheGreat
+
+Heroku
+
+darshanmesta47@yahoo.com / DarshanKA47@
+
+
+https://jsonplaceholder.typicode.com
+//
+
+npm install -g json-server
+json-server --watch course.json --port 5000
+
+
+//api call heroku
+
+https://apideploytest.herokuapp.com/
+
+
+ {/* <span className="glyphicon glyphicon-edit"></span> */}
+                    </Link>
+
+
+
+
+
+//to call json server
+
+
+
+
+ <link
+      rel="stylesheet"
+      href="https://bootswatch.com/3/cosmo/bootstrap.min.css"
+      type="text/css"
+    />
+
+
+ {/* <span className="glyphicon glyphicon-trash"></span> */}
+
+
+
+
+git config --global user.name "Suraj Mesta"
+git config --global user.email "surajmesta47@gmail.com"
+
+
+ <Link } to={`/delete/${id}`} className="btn btn-warning pull-right glyphicon glyphicon-trash">
+                       
+                    </Link>
+
+
+
+
+
+
+
+
+
+
+/* React Fragment is same as Like iframe in html . Will allow to return multiple components/ elements (html tags).
+It will allow to group extra children without adding extra nodes to the DOM
+
+
+1. we use  fragments in react to create multiple children ( components ) that return a various group of html 
+elements without wrapping then <div> or section, or main or as an array.
+
+React.Fragment
+
+
+
+*/
+
+
+
+
+
+  {/* ... is the spread operator it will carry an array expression or string */}
+
+
+//provider
+
+
+
+&#8377;
+
+
+
+module.exports={
+    DB:'mongodb+srv://DarshanKA47:DarshanKA47@cluster0-kiwag.mongodb.net/test?retryWrites=true&w=majority'
+}
+
+
+
+
+
+    <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+
+
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css // font awsome
+
+
+
+
+    name:{type:String,required:true,max:10,min:3},
+    email:{type:String,required:true,max:30,min:10},
+    password:{type:String,required:true,max:10,min:8},
+    date:{type:Date,default:Date.now},
+
+
+DarshanMes
+DarshanMe@
+
+
+      <%for(var i=0;i<posts.length;i++){%>
+                <%=posts[i].msg%>
+
+                <%}%>
+
+
+  <%// include('./partials/messages.ejs'); %>
+
+ <%- include ('./partials/messages.ejs') %>
+ <%- include ('./partials/messages.ejs'); %>
+
+
+
+https://mystifying-easley-6408d0.netlify.app/ // live app covid-19
