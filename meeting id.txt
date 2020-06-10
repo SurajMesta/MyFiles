@@ -141,3 +141,4 @@ https://mystifying-easley-6408d0.netlify.app/ // live app covid-19
 https://newappcovidnode.herokuapp.com/ // live node+react
   https://covidreactnode.herokuapp.com/ //live
 https://eager-blackwell-1c0e4d.netlify.app/ // live
+https://personalportofolio.herokuapp.com/ live
